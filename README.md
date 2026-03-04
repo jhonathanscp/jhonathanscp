@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Eai, eu sou o Jhonathan! 👋</h1>
-  <h3>Back-end Developer | PHP & Node.js | Metalhead 🎸</h3>
+  <h3>Back-end Developer | PHP & Node.js</h3>
 
   <p>
     Focado em <b>Engenharia de Software</b> e arquitetura de sistemas.<br>
